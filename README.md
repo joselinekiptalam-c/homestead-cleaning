@@ -15,7 +15,12 @@ python -m http.server 8000
 
 Then visit [http://localhost:8000](http://localhost:8000).
 
-## Deploy
+## Production
 
-Import this repository into Vercel as a static site. No build command or output
-directory is required. Vercel will serve `index.html` from the project root.
+- Website: <https://homestead-cleaning.vercel.app>
+- Source: <https://github.com/joselinekiptalam-c/homestead-cleaning>
+
+The site is deployed as a static project from the repository root. To publish
+local changes, run `npx vercel --prod` from this folder. GitHub pushes do not
+automatically trigger a new deployment until the GitHub account connection is
+completed in Vercel.
