@@ -2,8 +2,7 @@
 
 A responsive static website for Homestead Cleaning Co., serving Alabama.
 
-The site uses `sweethome@hotmail.com` for quote requests. A phone number has
-not been published because one was not provided.
+The site uses `sweethome@hotmail.com` for quote requests. 
 
 ## Run locally
 
